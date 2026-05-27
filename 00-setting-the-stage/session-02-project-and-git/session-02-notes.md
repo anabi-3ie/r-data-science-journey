@@ -47,19 +47,19 @@
 - [x] Have your four operating documents downloaded and ready: COURSE-MAP, DECISION-LOG, LOGISTICS-HANDBOOK, RESOURCE-ATLAS, README
 
 **During session**
-- [ ] Part 1 — Create an R Project for `r-data-science-journey`
-- [ ] Part 2 — Install and test the `here` package
-- [ ] Part 3 — Initialise Git in the project (RStudio's New Project dialog can do this)
-- [ ] Part 4 — Create a matching empty repo on GitHub
-- [ ] Part 5 — Connect local repo to GitHub
-- [ ] Part 6 — Make your first commit
-- [ ] Part 7 — Push to GitHub and verify
+- [x] Part 1 — Create an R Project for `r-data-science-journey`
+- [x] Part 2 — Install and test the `here` package
+- [x] Part 3 — Initialise Git in the project (RStudio's New Project dialog can do this)
+- [x] Part 4 — Create a matching empty repo on GitHub
+- [x] Part 5 — Connect local repo to GitHub
+- [x] Part 6 — Make your first commit
+- [x] Part 7 — Push to GitHub and verify
 
 **Post-session**
-- [ ] Bookmark your repo URL — you'll share this with me from Session 1.1 onward
-- [ ] Save these notes at `00-setting-the-stage/session-02-project-and-git/session-02-notes.md`
-- [ ] Add reflection line to COURSE-MAP under Reflections
-- [ ] Tick Session 0.2 done in COURSE-MAP
+- [x] Bookmark your repo URL — you'll share this with me from Session 1.1 onward
+- [x] Save these notes at `00-setting-the-stage/session-02-project-and-git/session-02-notes.md`
+- [x] Add reflection line to COURSE-MAP under Reflections
+- [x] Tick Session 0.2 done in COURSE-MAP
 
 ---
 
@@ -494,11 +494,11 @@ Git errors look terrifying but they're usually informative once you know how to 
 
 *Your space. Annotate freely. See Recipe 1 in LOGISTICS-HANDBOOK.*
 
-<!-- Example format:
+
 - *(2026-05-27)* The Git pane is intuitive once you realise stage = checkbox.
-- *(2026-05-27)* The here package — I get it. Solves a problem I didn't know I had.
+- *(2026-05-27)* The projects are game changer. The here package — I get it. Solves a problem I didn't know I had.
 - **Q:** What's the difference between staging and committing again?
--->
+
 
 ---
 

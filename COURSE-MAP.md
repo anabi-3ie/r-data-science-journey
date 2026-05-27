@@ -72,8 +72,8 @@ Files for each session live at `XX-phase-name/session-NN-title/`.
 
 *Your toolchain, your folders, your first commit.* — **2 sessions**
 
-- [ ] **0.1** Install & configure: R, RStudio, Rtools, Git, GitHub account — *45 min*
-- [ ] **0.2** Project structure, the `here` package, your first repo & commit — *60 min*
+- [x] **0.1** Install & configure: R, RStudio, Rtools, Git, GitHub account — *45 min*
+- [x] **0.2** Project structure, the `here` package, your first repo & commit — *60 min*
 
 ---
 
