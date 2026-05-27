@@ -9,21 +9,24 @@
 
 ## Table of Contents
 
-- [How to use this document](#how-to-use-this-document)
-- [Course philosophy](#course-philosophy)
-- [Course at a glance](#course-at-a-glance)
-- [Phase 0 — Setting the Stage](#phase-0--setting-the-stage)
-- [Phase 1 — R Fluency Foundations](#phase-1--r-fluency-foundations)
-- [Phase 2 — Data Wrangling Mastery](#phase-2--data-wrangling-mastery)
-- [Phase 3 — Visualisation: Solid → Stunning](#phase-3--visualisation-solid--stunning)
-- [Phase 4 — Reproducibility & Communication](#phase-4--reproducibility--communication)
-- [Phase 5 — Programming in R](#phase-5--programming-in-r)
-- [Phase 6 — Statistical Computing in R](#phase-6--statistical-computing-in-r)
-- [Phase 7 — The Modern R Ecosystem](#phase-7--the-modern-r-ecosystem)
-- [Phase 8 — AI-Assisted Workflow & Staying Current](#phase-8--ai-assisted-workflow--staying-current)
-- [Always-on threads](#always-on-threads-every-session)
-- [Cross-references with the Stats course](#cross-references-with-the-stats--meta-analysis-course)
-- [Tracking your progress](#tracking-your-progress)
+- [R for Data Science, Visualisation \& Evidence Synthesis](#r-for-data-science-visualisation--evidence-synthesis)
+  - [Table of Contents](#table-of-contents)
+  - [How to use this document](#how-to-use-this-document)
+  - [Course philosophy](#course-philosophy)
+  - [Course at a glance](#course-at-a-glance)
+  - [Phase 0 — Setting the Stage](#phase-0--setting-the-stage)
+  - [Phase 1 — R Fluency Foundations](#phase-1--r-fluency-foundations)
+  - [Phase 2 — Data Wrangling Mastery](#phase-2--data-wrangling-mastery)
+  - [Phase 3 — Visualisation: Solid → Stunning](#phase-3--visualisation-solid--stunning)
+  - [Phase 4 — Reproducibility \& Communication](#phase-4--reproducibility--communication)
+  - [Phase 5 — Programming in R](#phase-5--programming-in-r)
+  - [Phase 6 — Statistical Computing in R](#phase-6--statistical-computing-in-r)
+  - [Phase 7 — The Modern R Ecosystem](#phase-7--the-modern-r-ecosystem)
+  - [Phase 8 — AI-Assisted Workflow \& Staying Current](#phase-8--ai-assisted-workflow--staying-current)
+  - [Always-on threads (every session)](#always-on-threads-every-session)
+  - [Cross-references with the Stats \& Meta-Analysis course](#cross-references-with-the-stats--meta-analysis-course)
+  - [Tracking your progress](#tracking-your-progress)
+    - [Reflections](#reflections)
 
 ---
 
@@ -222,7 +225,7 @@ This serves three purposes:
 
 ### Reflections
 
-*(your notes go here as you progress)*
+- 2026-05-28 | S0.1 + S0.2 | Toolchain installed and first commit pushed. The Git pane is less scary than I expected. I need to remember this through practice. Will create a new demo project.
 
 ---
 
