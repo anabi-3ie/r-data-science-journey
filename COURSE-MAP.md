@@ -54,7 +54,7 @@ Files for each session live at `XX-phase-name/session-NN-title/`.
 
 | Phase | Title | Sessions | Status |
 |-------|-------|----------|--------|
-| 0 | Setting the Stage | 2 | ☐ |
+| 0 | Setting the Stage | 2 | [x] |
 | 1 | R Fluency Foundations | 4 | ☐ |
 | 2 | Data Wrangling Mastery | 5 | ☐ |
 | 3 | Visualisation: Solid → Stunning | 7 | ☐ |
